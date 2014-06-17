@@ -610,9 +610,10 @@ time span{
 }
 
 .postcontent_pixel img{
-
-	max-width:100%;
-
+	display: block;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 pre{
