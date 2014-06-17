@@ -611,7 +611,7 @@ time span{
 
 .postcontent_pixel img{
 
-	width:100%;
+	max-width:100%;
 
 }
 
